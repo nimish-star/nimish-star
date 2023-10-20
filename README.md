@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **tensorflow**
 
-- 👯 I’m looking to collaborate on **ML projects**
+- 👯 I’m looking to collaborate on **Full Stack roles**
 
 - 🤝 I’m looking for help with **dynamic programming**
 
