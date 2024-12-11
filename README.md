@@ -7,9 +7,7 @@
 
 - 🌱 I’m currently learning **Backend**
 
-- 👯 I’m looking to collaborate on **Full Stack roles**
-
-- 🤝 I’m looking for help with **dynamic programming**
+- 👯 I’m looking to collaborate on **Software Developer roles**
 
 - 📫 How to reach me **nimishlakhmani@gmail.com**
 
